@@ -1,0 +1,17 @@
+prof,years at msu,gender,phd,bldg,classes
+Cummings,4,female,TRUE,NAH,CSCI 112; CSCI 215CS
+DeFrance,3,male,FALSE,Barnard,CSCI 127; CSCI 491; CS 145RA
+Fasy,6,female,TRUE,Barnard,CSCI 432; CSCI 494
+Gross,1,male,FALSE,Barnard,CSCI 366; CSCI 440
+Izurieta,12,male,TRUE,NAH,CSCI 482R; ESOF 322
+Lloyd,24,male,FALSE,Barnard,CSCI 132; CSCI 305; CSCI 204
+Millman,5,male,TRUE,Barnard,CSCI 550
+Mumey,23,male,TRUE,Barnard,CSCI 232
+Neeley,3,female,TRUE,Barnard,CSCI 594
+Paxton,31,male,TRUE,Barnard,CSCI 107
+Peters,2,male,TRUE,NAH,CSCI 460
+Sheppard,13,male,TRUE,Barnard,CSCI 447
+Stanley,2,female,TRUE,Barnard,CSCI 494
+Wittie,10,male,TRUE,Barnard,CSCI 466
+Yaw,3,male,TRUE,Barnard,CSCI 338
+Zhu,21,male,TRUE,Barnard,CSCI 538; CSCI 246
